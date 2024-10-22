@@ -14,17 +14,17 @@ on GitHub if you have tips or suggestions!
 - Muh coffee!
 
 #### Some Classes I'm Currently Enrolled In
-- COSC 4340/5340: Comparative Study of Programming Languages
-- COSC 4336: Software Development—we're writing a chess engine!
-- PHYS 2325: University Physics I
-- MATH 3351: Probability & Statistics for Scientists
+- **COSC 4340/5340:** *Comparative Study of Programming Languages*
+- **COSC 4336:** *Software Development—we're writing a chess engine!*
+- **PHYS 2325:** *University Physics I*
+- **MATH 3351:** *Probability & Statistics for Scientists*
 
 #### Some Cool Classes I've Taken
-- MATH 2413: Calculus I
-- HNRS 2414: Honors Calculus II
-- COSC 4327: UNIX Shell Programming
-- COSC 4364: Cyber Risk Analysis
-- ART  4345/5345: Renaissance Art History (Italian Focus)
+- **MATH 2413:** *Calculus I*
+- **HNRS 2414:** *Honors Calculus II*
+- **COSC 4327:** *UNIX Shell Programming*
+- **COSC 4364:** *Cyber Risk Analysis*
+- **ART  4345/5345:** *Renaissance Art History (Italian Focus)*
 
 *I have two semesters remaining, and a 4.0 GPA as of now.* Summa cum laude, *here I come! (I hope...)*
 
