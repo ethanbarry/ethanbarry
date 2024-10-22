@@ -26,6 +26,8 @@ on GitHub if you have tips or suggestions!
 - COSC 4364: Cyber Risk Analysis
 - ART  4345/5345: Renaissance Art History (Italian Focus)
 
+*I have two semesters remaining, and a 4.0 GPA as of now.* Summa cum laude, *here I come! (I hope...)*
+
 ### Personal Git Forge:
 I have a blog at [howdytx.technology](https://howdytx.technology) where I write about anything in CS or math that interests me.
 
