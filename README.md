@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a CS & Mathematics double major at The University of Texas at Tyler interested in numerical analysis, formal methods, and high-performance, low-level computing. I also like language design, compiler construction, and formalization of grammars and syntax.
+I'm a CS & Mathematics double major at The University of Texas at Tyler interested in numerical analysis, formal methods, and high-performance, low-level, high-reliability computing. I also like language design, compiler construction, and formalization of grammars and syntax.
 
 I'm looking to spend my free time learning from and contributing
 to some of my favorite open-source projects. Please drop me a message here
