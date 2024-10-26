@@ -1,13 +1,14 @@
 ## Hello!
 
-I'm a CS student at The University of Texas at Tyler interested in numerical analysis, formal methods, and high-performance, low-level computing. I also like language design, compiler construction, and formalization of grammars and syntax.
+I'm a CS & Mathematics double major at The University of Texas at Tyler interested in numerical analysis, formal methods, and high-performance, low-level computing. I also like language design, compiler construction, and formalization of grammars and syntax.
 
 I'm looking to spend my free time learning from and contributing
 to some of my favorite open-source projects. Please drop me a message here
 on GitHub if you have tips or suggestions!
 
 ### Things I Like
-- The Rust, Java, & Kotlin programming languages.
+- The Rust programming language.
+- The UNIX shell and UNIX philosophy.
 - Self-hosted services.
 - Great-looking UI.
 - Thorough and complete documentation!
@@ -26,7 +27,7 @@ on GitHub if you have tips or suggestions!
 - **COSC 4364:** *Cyber Risk Analysis*
 - **ART  4345/5345:** *Renaissance Art History (Italian Focus)*
 
-*I have two semesters remaining, and a 4.0 GPA as of now.* Summa cum laude, *here I come! (I hope...)*
+*I have four semesters remaining, and a 4.0 GPA as of now.* Summa cum laude, *here I come! (I hope...)*
 
 ### Personal Git Forge:
 I have a blog at [howdytx.technology](https://howdytx.technology) where I write about anything in CS or math that interests me.
