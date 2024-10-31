@@ -29,7 +29,7 @@ on GitHub if you have tips or suggestions!
 
 *I have four semesters remaining, and a 4.0 GPA as of now.* Summa cum laude, *here I come! (I hope...)*
 
-### Personal Git Forge:
+### Personal Website:
 I have a blog at [howdytx.technology](https://howdytx.technology) where I write about anything in CS or math that interests me.
 
 <!---
